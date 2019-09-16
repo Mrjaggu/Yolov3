@@ -38,6 +38,3 @@ When it comes to object detection, popular detection frameworks are
  ![](object-detection.jpg)
  
 Checkout the object detection implementation available in [cvlib](http:cvlib.net) which enables detecting common objects in the context through a single function call `detect_common_objects()`.
- 
- 
- (_SSD and Faster R-CNN examples will be added soon_)
